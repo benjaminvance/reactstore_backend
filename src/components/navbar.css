@@ -1,0 +1,15 @@
+.navbar {
+    background-color: green;
+}
+
+.navbar h1 {
+    color: red;
+}
+
+nav.navbar ul li a { 
+    color: white !important;
+}
+
+.navbar .btn {
+    background-color: white;
+}

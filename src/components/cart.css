@@ -1,0 +1,25 @@
+.cart {
+    background-color: #e2e7e8;
+    padding-top: 3rem;
+}
+
+.cart h6 {
+    color: #333;
+    align-items: center;
+}
+
+.cart h3 {
+    text-align: center;
+}
+
+.cart .parent {
+    display: flex;
+}
+
+.cart .products {
+    flex: 2;
+}
+
+.cart .total-panel {
+    flex: 1;
+}
